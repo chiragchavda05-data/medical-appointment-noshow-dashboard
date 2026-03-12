@@ -245,7 +245,7 @@ Go to the GitHub repository and copy the repository URL.
 **Example:**
 
 ```bash
-https://github.com/your-username/medical-appointment-noshow-dashboard.git
+https://github.com/chiragchavda05-data/medical-appointment-noshow-dashboard.git
 ```
 ### Step 2: Open Terminal or Git Bash
 
