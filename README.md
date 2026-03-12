@@ -269,7 +269,7 @@ Open the .pbix file in Power BI Desktop
 Make sure the .csv file is present in the same folder
 If Power BI asks for file path refresh, reconnect the CSV file
 
-## **Outcome**
+✅ ## **Outcome**
 
 This project successfully transformed raw healthcare appointment data into a structured and interactive business intelligence dashboard.  
 
@@ -278,7 +278,7 @@ It helps identify missed appointment trends, operational risks, and patient beha
 These insights can support better healthcare scheduling, resource planning, and decision-making.  
 
 
-## **Future Scope**
+🚀 ## **Future Scope**
 
 This project can be extended further by:
 
@@ -289,10 +289,10 @@ This project can be extended further by:
 - Building an alert-based risk monitoring system  
 
 
-## **Author**
+👨‍💻 ## **Author**
 
 **Chirag Chavda**  
 
-## **License**
+📜 ## **License**
 This project is created for learning, academic, and portfolio purposes.
 
