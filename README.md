@@ -257,13 +257,13 @@ VS Code Terminal
 
 ### Step 3: Run the clone command
 ```
-git clone https://github.com/your-username/medical-appointment-noshow-dashboard.git 
+git clone https://github.com/your-username/medical-appointment-noshow-dashboard.git
 ```
-###Step 4: Move into the project folder
+### Step 4: Move into the project folder
 ```
 cd medical-appointment-noshow-dashboard
 ```
-###Step 5: Open the project
+### Step 5: Open the project
 
 Open the .pbix file in Power BI Desktop
 Make sure the .csv file is present in the same folder
@@ -296,4 +296,3 @@ This project can be extended further by:
 ## **License**
 This project is created for learning, academic, and portfolio purposes.
 
-This project is created for learning, academic, and portfolio purposes.
