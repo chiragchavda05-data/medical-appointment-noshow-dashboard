@@ -233,7 +233,7 @@ medical-appointment-noshow-dashboard/
 ├── no_show_drivers.png
 ├── operational_insights.png
 └── README.md
-
+```
 ## 📥 How to Clone This Repository
 
 If someone wants to copy this project to their local system, they can clone the repository using Git.
@@ -246,6 +246,7 @@ Go to the GitHub repository and copy the repository URL.
 
 ```bash
 https://github.com/your-username/medical-appointment-noshow-dashboard.git
+```
 ### Step 2: Open Terminal or Git Bash
 
 Open any one of the following:
@@ -292,7 +293,7 @@ This project can be extended further by:
 
 **Chirag Chavda**  
 
-
 ## **License**
+This project is created for learning, academic, and portfolio purposes.
 
 This project is created for learning, academic, and portfolio purposes.
